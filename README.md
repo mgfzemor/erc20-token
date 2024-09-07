@@ -1,4 +1,4 @@
-# :money_with_wings: TexxxugoToken Smart Contract
+# :money_with_wings: Texxxugo Coin - Smart Contract
 
 This Solidity smart contract implements an ERC-20 token named "Texxxugo Coin" with the symbol "TXG". It defines basic functionalities for an ERC-20 token such as transferring tokens, approving allowances, and querying balances. The contract is compliant with the ERC-20 standard, ensuring interoperability with other Ethereum-based systems and wallets.
 
